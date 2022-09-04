@@ -1,3 +1,6 @@
+//This script fulfills the project reqs for "Dog Years" in Codecademy
+
+
 let myAge = 25; //my age variable
 let earlyYears = 2; //variable that changes
 
