@@ -6,7 +6,7 @@ let laterYears = myAge -= 2; //subtracts 2 from my age
 
 laterYears *= 4; //multiples laterYears by 4
 
-console.log(earlyYears, laterYears)
+//console.log(earlyYears, laterYears)
 
 let myAgeInDogYears = earlyYears + laterYears; //adds earlyyear and lateryears together to equal myageindogyears
 
